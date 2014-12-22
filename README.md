@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document:
+    keep_tex: yes
+---
 ### Introduction
 
 This second programming assignment will require you to write an R
